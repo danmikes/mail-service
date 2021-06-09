@@ -1,0 +1,12 @@
+
+`
+java:S1214E"CMove constants defined in this interfaces to another class or enum.(ÁÂ­í8ƒ„×˜Ø.
+v	java:S115F"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(²óÌæ8éêé˜Ø.
+M
+java:S2386I"0Move "group" to a class and lower its visibility(â¹äí8¦”¥™Ø.
+v	java:S115H"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•®ž¶8“ˆí˜Ø.
+{	java:S115G"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(çÚ½¢üÿÿÿÿ8ÅÆë˜Ø.
+7
+java:S1220""Move this file to a named package.8ƒ„×˜Ø.
+U
+java:S1197I"8Move the array designator from the variable to the type.(â¹äí8¦”¥™Ø.
